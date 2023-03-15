@@ -16,9 +16,13 @@ speed of Answering the call in seconds, Avg talk duration, Satisfaction rating.
 
 ### SKILLS/CONCEPT DEMONSTRATED
 
-Table Structuring, Data cleaning, powerQuery, Data Transformation, Data analysis & visualization 
-PROBLEM STATEMENT
-This dataset contains the data from a call center in 2015 QTR1 and was tasked to analyze this dataset and provide insights from the analysis, the questions asked were:
+Table Structuring, Data cleaning, powerQuery, Data Transformation, Data analysis & visualization
+
+### PROBLEM STATEMENT
+
+This dataset contains the data from a call center in 2015 QTR1 and was tasked to analyze this dataset and provide insights from the analysis 
+
+The questions asked were:
 Total Calls 
 Average speed of answer in seconds 
 Average satisfaction
@@ -27,8 +31,10 @@ Total calls by agents
 % of calls by Topics
 Compare answered and abandoned calls 
 Answered and resolved calls by month
+
 DATA TRANSFORMATION AND CLEANING
 The Data was structured in Excel and transformed in the power query editor
+
 Additional columns were added into the dataset, the name of day which groups the dates by name of days of the week, and the day of the week which attributes number to each day of the week. This was done to further categorize the date column into days and arrange it orderly
 The data was saved and loaded into the visualization pane
 DATA visualization 
