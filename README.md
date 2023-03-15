@@ -1,20 +1,28 @@
 # CALL CENTER REPORT 
 
+![](pexels-tima-miroshnichenko-5453909.jpg)
+
 ## INTRODUCTION
 
 This dataset gives descriptive information on the calls that were received by a call center in the first quarter of 2015
 
 It contains the following information:<br>
-Call ID, 
-Agent who received the call, 
-Date, Time, Topic, 
-if it was Answered or not, 
+Call ID
+Agent who received the call 
+Date, Time, Topic
+if it was Answered or not
 if it was resolved or not
-speed of Answering the call in seconds, Avg talk duration, Satisfaction rating.
+speed of Answering the call in seconds 
+Avg talk duration 
+Satisfaction rating.
 
 ### SKILLS/CONCEPT DEMONSTRATED
 
 Table Structuring, Data cleaning, powerQuery, Data Transformation, Data analysis & visualization
+
+### Tool Used
+
+PowerBi, Powerquery
 
 ### PROBLEM STATEMENT
 
