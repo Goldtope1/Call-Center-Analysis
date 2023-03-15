@@ -7,14 +7,14 @@
 This dataset gives descriptive information on the calls that were received by a call center in the first quarter of 2015
 
 It contains the following information:<br>
-Call ID
-Agent who received the call 
-Date, Time, Topic
-if it was Answered or not
-if it was resolved or not
-speed of Answering the call in seconds 
-Avg talk duration 
-Satisfaction rating.
+* Call ID
+* Agent who received the call 
+* Date, Time, Topic
+* if it was Answered or not
+* if it was resolved or not
+* speed of Answering the call in seconds 
+* Avg talk duration 
+* Satisfaction rating.
 
 ### SKILLS/CONCEPT DEMONSTRATED
 
@@ -29,14 +29,14 @@ PowerBi, Powerquery
 This dataset contains the data from a call center in 2015 QTR1 and was tasked to analyze this dataset and provide insights from the analysis 
 
 The questions asked were:
-Total Calls 
-Average speed of answer in seconds 
-Average satisfaction
-Call trend by months
-Total calls by agents
-% of calls by Topics
-Compare answered and abandoned calls 
-Answered and resolved calls by month
+* Total Calls made to the company
+* Average speed of answer in seconds 
+* Average satisfaction
+* Call trend by months
+* Total calls by agents
+* % of calls by Topics
+* Compare answered and abandoned calls 
+* Answered and resolved calls by month
 
 #### DATA TRANSFORMATION AND CLEANING
 
@@ -44,8 +44,7 @@ The Data was structured in Excel and transformed in the power query editor
 
 ![](call_center-analysis_transformation.png)
 
-Additional columns were added into the dataset, the name of day which groups the dates by name of days of the week, and the day of the week which attributes number to each day of the week. This was done to further categorize the date column into days and arrange it orderly
-The data was saved and loaded into the visualization pane
+Additional columns were added into the dataset, the name of day which groups the dates by name of days of the week, and the day of the week which attributes number to each day of the week. This was done to further categorize the date column into days and arrange it orderly. The data was saved and loaded into the visualization pane
 
 ### DATA VISUALIZATION
 
