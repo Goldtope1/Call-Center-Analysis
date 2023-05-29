@@ -4,7 +4,7 @@
 
 ## INTRODUCTION
 
-This dataset gives descriptive information on the calls that were received by a call center in the first quarter of 2015
+This Report gives descriptive information on the calls that were received by a call center in the first quarter of 2015
 
 It contains the following information:<br>
 * Call ID
